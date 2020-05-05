@@ -1,0 +1,20 @@
+{
+  "name": "davidribeiro05/mvc",
+  "description": "Aplicação da arquitetura MVC",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David",
+      "email": "david.ribeiro05@hotmail.com",
+      "role": "Developer",
+      "homepage": "https://www.linkedin.com/in/davidribeiro05/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sts\\": "app/sts",
+      "Core\\": "core"
+    }
+  }
+}
