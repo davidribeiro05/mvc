@@ -14,7 +14,7 @@ class Conn
     private static $instance;
     private static $host = "127.0.0.1";
     private static $usuario = "developer";
-    private static $senha = "d4v1d.3238";
+    private static $senha = "";
     private static $banco = "world";
 
     public static function getConn()
